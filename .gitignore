@@ -1,0 +1,9 @@
+# .gitignore
+bin/
+.env
+*.log
+.idea/
+.vscode/
+*.test
+*.out
+**/*.DS_Store
